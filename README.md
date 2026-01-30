@@ -24,7 +24,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - initialize **Development Environment**
 - edit *README.md* in the **euphemeral** terminal, add screenshot
 - format: **markdown**
-- ![Git Push screeshot](https://private-user-images.githubusercontent.com/178520157/543130894-87719a2b-897d-41c2-9ea0-54574d0dc781.jpg)
+- ![Git Push screeshot](<img width="627" height="227" alt="Image" src="https://github.com/user-attachments/assets/87719a2b-897d-41c2-9ea0-54574d0dc781" />)
 
 ---
 
