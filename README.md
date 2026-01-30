@@ -23,8 +23,14 @@ Lab environment used for all the exercises and tasks: '**euphemeral**'
 - Note: GitHub -> Developer Setting -> Personal Access tokens -> Token (Classic)
 - clone and create my own Github repository 
 - initialize **Development Environment**
-- edit *README.md* in the '**euphemeral**' terminal
+- edit *README.md* in the '**euphemeral**' terminal, add screenshot
 - format: '**markdown**'
+- Git Push: screenshot
+![gitpush] ("C:\Users\carol\Downloads\exercise0 -gitpush.png")
+
+---
+
+
 -------
 #Option 1: AI-Graded SUbmission and Evaluation 
 
