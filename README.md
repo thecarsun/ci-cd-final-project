@@ -1,17 +1,16 @@
 # CI/CD Tools and Practices Final Project
 ## project name: ci-cd-final project
----
 
-**Intro/Background**
+### **Intro/Background**
 
-This is my final project for the *Continuous Integration and Delivery (CI/CD)* course. Part of the [IBM Applied DevOps Engineering] certificate (https://www.coursera.org/professional-certificates/ibm-applied-devops-engineering). 
+This is my final project for the *Continuous Integration and Delivery (CI/CD)* course. Part of the [IBM Applied DevOps Engineering](https://www.coursera.org/professional-certificates/ibm-applied-devops-engineering). 
 
 This final project is about building a CI/CD pipeline.
-The GitHub respository is cloned from the IBM repository template (https://github.com/ibm-developer-skills-network/wtecc-CICD_PracticeCode)
+The GitHub respository is cloned from the [IBM repository template](https://github.com/ibm-developer-skills-network/wtecc-CICD_PracticeCode)
 
-Lab environment used for all the exercises and tasks: '**euphemeral**'
+Lab environment used for all the exercises and tasks: **euphemeral**
 
-**Exercise 0 - Push CI code to GitHub**
+### **Exercise 0 - Push CI code to GitHub**
 
 **Task** 
 - test workflow and CI pipeline
@@ -23,10 +22,10 @@ Lab environment used for all the exercises and tasks: '**euphemeral**'
 - Note: GitHub -> Developer Setting -> Personal Access tokens -> Token (Classic)
 - clone and create my own Github repository 
 - initialize **Development Environment**
-- edit *README.md* in the '**euphemeral**' terminal, add screenshot
-- format: '**markdown**'
+- edit *README.md* in the **euphemeral** terminal, add screenshot
+- format: **markdown**
 - Git Push: screenshot
-![gitpush] ("C:\Users\carol\Downloads\exercise0 -gitpush.png")
+![gitpush]("https://drive.google.com/file/d/15wIms4ZJPLzR9-x0Q-JEGmEZEQ5GKrN-/view?usp=drive_link")
 
 ---
 
