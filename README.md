@@ -24,8 +24,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - initialize **Development Environment**
 - edit *README.md* in the **euphemeral** terminal, add screenshot
 - format: **markdown**
-![screenshot](https://drive.google.com/file/d/1U_EqIwA910W8aOetDApfnAUCXiruVHjK/view?usp=sharing)
-
+- ![screenshot](https://github.com/thecarsun/ci-cd-final-project/issues/1)
 
 ---
 
