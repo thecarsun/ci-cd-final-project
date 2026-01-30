@@ -1,5 +1,6 @@
 # CI/CD Tools and Practices Final Project
 ## project name: ci-cd-final project
+---
 
 **Intro/Background**
 
@@ -8,7 +9,7 @@ This is my final project for the *Continuous Integration and Delivery (CI/CD)* c
 This final project is about building a CI/CD pipeline.
 The GitHub respository is cloned from the IBM repository template (https://github.com/ibm-developer-skills-network/wtecc-CICD_PracticeCode)
 
-Lab environment used for all the exercises and tasks: **euphemeral**
+Lab environment used for all the exercises and tasks: '**euphemeral**'
 
 **Exercise 0 - Push CI code to GitHub**
 
@@ -18,17 +19,12 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - push branch back to GitHub respository
 
 **What I've done:** 
-
-- prep environement / GitHub Personal Access Token. 
--- Note: GitHub -> Developer Setting -> Personal Access tokens -> Token (Classic)
-
+- prep environement / GitHub Personal Access Token(PAT)
+- Note: GitHub -> Developer Setting -> Personal Access tokens -> Token (Classic)
 - clone and create my own Github repository 
-
 - initialize **Development Environment**
-
-- this *README.md* edited in the **euphemeral** terminal
--- format: **markdown** 
-
+- edit *README.md* in the '**euphemeral**' terminal
+- format: '**markdown**'
 -------
 #Option 1: AI-Graded SUbmission and Evaluation 
 
