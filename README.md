@@ -29,14 +29,25 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 ---
 ### **Exercise 1 - Create basic workflow**
+
  **Task**
- create CL Workflow.yml
+ create Cl Workflow.yml
 
 **What I've done:**
 - created the CI workflow
 - writing steps 
 - [workflow.yml](https://github.com/thecarsun/ci-cd-final-project/blob/main/.github/workflows/workflow.yml)
-- pushed changes to GitHub
+- push to GitHub
+
+---
+### **Exercise 2 - Add the linting step to Cl workflow**
+
+**Task**
+- add the Lint step to the GitHub workflow
+- use Flake8 module for linting 
+
+**What I've done:**
+
 
 
  
