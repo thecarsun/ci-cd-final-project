@@ -118,12 +118,17 @@ Lab environment used for all the exercises and tasks: **euphemeral**
  ![cicd-github-validate](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/cicd-github-validate.png)
 
  [⬆ Back to top](#top)
- 
+
  ---
 
 ### Exercise 5
 #### Create cleanup Tekton task
 
+**Task**
+- add a cleanup task
+- task will have single step remove
+
+**What I have done:**
 --- 
 
 #Task 6 - screenshots
