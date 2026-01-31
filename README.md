@@ -28,12 +28,15 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 ![Git Push Action confirmation screeshot](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise0%20-%20gitpush.jpg)
 
 ---
+### **Exercise 1 - Create basic workflow**
+## **Workflow.yml**
 
 
--------
-#Option 1: AI-Graded SUbmission and Evaluation 
 
-#GttHub URL:workflow.yaml
+
+ 
+
+
 
 #GitHub URL:tasks.yaml
 
