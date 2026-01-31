@@ -29,7 +29,8 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 ---
 ### **Exercise 1 - Create basic workflow**
-## **Workflow.yml**
+ **Task**
+ create CL Workflow.yml
 
 **What I've done:**
 - created the CI workflow
