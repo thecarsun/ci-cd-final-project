@@ -39,9 +39,14 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - clone and create my own Github repository 
 - initialize **Development Environment**
 - edit *README.md* in the **euphemeral** terminal, add screenshot of Git Push action
-- format: **markdown**
+- format: `**markdown**`
 
 ![Git Push Action confirmation screeshot](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise0%20-%20gitpush.jpg)
+
+
+**For Option 1 - AI Graded Submission and Evaluation**
+- [`Readme.md`](https://github.com/thecarsun/ci-cd-final-project/blob/main/README.md)
+
 
 [⬆ Back to top](#top)
 
@@ -54,7 +59,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
  create Cl Workflow.yml
 
 **What I've done:**
-- created the CI workflow
+- created the `CI workflow`
 - writing steps 
 - [workflow.yml](https://github.com/thecarsun/ci-cd-final-project/blob/main/.github/workflows/workflow.yml)
 - push to GitHub
@@ -67,8 +72,8 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 #### Add the linting step to Cl workflow
 
 **Task**
-- add the Lint step to the GitHub workflow
-- use Flake8 module for linting 
+- add the `Lint` step to the GitHub workflow
+- use `Flake8` module for linting 
 
 **What I've done:**
 - added name/run section to the exisiting Cl workflow
@@ -83,8 +88,8 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 #### Add the test step to Cl workflow
 
 **Task**
-- add Test step to the Github workflow
-- use Nose module for running tests
+- add `Test` step to the Github workflow
+- use `Nose` module for running tests
 
 **What I've done:**
 - add name/run section to the existing Cl workflow 
@@ -107,7 +112,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 ![validation fail](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise4%20-validateghactionworkflow-fail.png)
 
 - troubleshoot; issue with indentation error 
-- more errors followed in the following areas: flake8, Lint, nose
+- more errors followed in the following areas: `flake8`, `Lint`, `nose`
 - many many many fixes and pushes later.. finally 
 
 ![Finally working](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise4%20-validateghactionworkflow.png)
@@ -117,6 +122,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
  ![cicd-github-validate](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/cicd-github-validate.png)
 
+
  [⬆ Back to top](#top)
 
  ---
@@ -125,11 +131,29 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 #### Create cleanup Tekton task
 
 **Task**
-- add a cleanup task
+- add a `cleanup` `task`
 - task will have single step remove
 
 **What I have done:**
+- created tasks.yml 
+- added details and steps
+
+**Option 1 - AI Graded Submission and Evaluation**
+- [tasks.yml](https://github.com/thecarsun/ci-cd-final-project/blob/main/.tekton/tasks.yml)
+
+[⬆ Back to top](#top)
+
 --- 
+
+## Exercise 6
+### Create test Tekton task
+
+**Task**
+- add `nose` under the `cleanup task
+
+**What I have done:**
+
+
 
 #Task 6 - screenshots
 #task 8 - screenshots
