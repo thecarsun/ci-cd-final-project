@@ -57,3 +57,23 @@ spec:
         python -m pip install --upgrade pip wheel
         pip install -r requirements.txt
         nosetests $(params.args)
+
+apiVersion: tekton.dev/v1beta1
+kind: Task
+metadata:
+  name: buildah
+spec:
+  params:
+    - name: build-image
+      type: string
+      description: Image name to build
+      default: my-app:latest
+  steps:
+    - name: build
+      image: quay.io/buildah/stable:v1.30.0
+      workingDir: $(workspaces.source.path)
+      script: |
+        #!/usr/bin/env sh
+        set -eu
+        echo "Building image $(params.build-image)"
+        buildah bud -t $(params.build-image) .

@@ -11,6 +11,7 @@
 - [Exercise-3](#Exercise-3)
 - [Exercise-4](#Exercise-4)
 - [Exercise-5](#Exercise-5)
+- [Exercise-6](#Exercise-6)
 
 
 ### Intro/Background
@@ -164,6 +165,23 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 **Option 1 - AI Graded Submission and Evaluation**
 - [.tekton/tasks.yml](https://github.com/thecarsun/ci-cd-final-project/blob/main/.tekton/tasks.yml)
+
+[⬆ Back to top](#top)
+
+---
+
+## Exercise 6
+### Create OpemShift pipeline
+
+**Task**
+- create CD pipeline
+- use OpenShift from lab
+- create PVC through terminal from the `Administrator` perspective
+
+**What I've done:**
+- define buildah task
+
+
 
 
 
