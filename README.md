@@ -47,6 +47,9 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - use Flake8 module for linting 
 
 **What I've done:**
+- added name/run section to the exisiting Cl workflow
+- [workflow.yml](https://github.com/thecarsun/ci-cd-final-project/blob/main/.github/workflows/workflow.yml)
+- push to Github
 
 
 
