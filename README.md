@@ -24,7 +24,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - initialize **Development Environment**
 - edit *README.md* in the **euphemeral** terminal, add screenshot
 - format: **markdown**
-- ![Git Push screeshot](https://github.com/thecarsun/ci-cd-final-project/issues/1#issue-3877801001)
+- ![Git Push Action confirmation screeshot](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise0%20-%20gitpush.jpg)
 
 ---
 
