@@ -63,6 +63,9 @@ kind: Task
 metadata:
   name: buildah
 spec:
+  spec:
+  workspaces:
+    - name: source
   params:
     - name: build-image
       type: string
@@ -76,4 +79,4 @@ spec:
         #!/usr/bin/env sh
         set -eu
         echo "Building image $(params.build-image)"
-        buildah bud -t $(params.build-image) .
+        buildah bud -t $(params.build-image) 
