@@ -75,6 +75,12 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 ![validation fail](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise4%20-validateghactionworkflow-fail.png)
 
 - troubleshoot; issue with indentation error 
+- more errors followed in the following areas: flake8, Lint, nose
+- many many many fixes and pushes later.. finally 
+
+![Finally working](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise4%20-validateghactionworkflow.png)
+
+---
 
  
 
