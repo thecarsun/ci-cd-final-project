@@ -1,6 +1,8 @@
 # CI/CD Tools and Practices Final Project
 ## project name: ci-cd-final project
 
+<a name="top"></a>
+
 ## Table of Contents
 - [Intro/Background](#Intro/Background)
 - [Exercise-0](#Exercise-0)
@@ -20,6 +22,9 @@ The GitHub respository is cloned from the [IBM repository template](https://gith
 
 Lab environment used for all the exercises and tasks: **euphemeral**
 
+[Back to top](#top)
+
+---
 ### Exercise 0
 #### Push Cl code to GitHub
 
@@ -38,6 +43,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 ![Git Push Action confirmation screeshot](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise0%20-%20gitpush.jpg)
 
+[Back to top](#top)
 ---
 
 ### Exercise 1
@@ -52,6 +58,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - [workflow.yml](https://github.com/thecarsun/ci-cd-final-project/blob/main/.github/workflows/workflow.yml)
 - push to GitHub
 
+[Back to top](#top)
 ---
 
 ### Exercise 2
@@ -66,6 +73,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - [workflow.yml](https://github.com/thecarsun/ci-cd-final-project/blob/main/.github/workflows/workflow.yml)
 - push to Github
 
+[Back to top](#top)
 ---
 
 ### Exercise 3
@@ -80,6 +88,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - [workflow.yml](https://github.com/thecarsun/ci-cd-final-project/blob/main/.github/workflows/workflow.yml)
 - push to Github
 
+[Back to top](#top)
 --- 
 
 ### Exercise 4
@@ -104,6 +113,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
  ![cicd-github-validate](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/cicd-github-validate.png)
 
+ [Back to top](#top)
  ---
 
 ### Exercise 5
