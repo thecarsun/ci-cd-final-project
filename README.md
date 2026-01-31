@@ -137,6 +137,10 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 **What I have done:**
 - created tasks.yml 
 - added details and steps
+- validate `tkn task describe cleanup`
+
+![sunceeded](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/ecercise5-Tekton%20validate.png)
+
 
 **Option 1 - AI Graded Submission and Evaluation**
 - [tasks.yml](https://github.com/thecarsun/ci-cd-final-project/blob/main/.tekton/tasks.yml)
@@ -149,10 +153,10 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 ### Create test Tekton task
 
 **Task**
-- add `nose` under the `cleanup task
+- add `nose` under the `cleanup` task
 
 **What I have done:**
-
+- add 
 
 
 #Task 6 - screenshots
