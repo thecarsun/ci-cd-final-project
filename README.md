@@ -180,6 +180,10 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 **What I've done:**
 - define buildah task
+- in OpenShift (from lab), setup PVC 
+- create a new pipeline (cleanup, git clone, flake8, nose, buildah)
+- fix all the error in the pipelines
+
 
 
 

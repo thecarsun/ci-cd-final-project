@@ -54,9 +54,10 @@ spec:
       script: |
         #!/usr/bin/env sh
         set -eu
-        python -m pip install --upgrade pip wheel
+        python -m pip install --upgrade pip
+        pip install --upgrade wheel setuptools
         pip install -r requirements.txt
-        nosetests $(params.args)
+        flake8 service --count --max-complexity=10 --max-line-length=127 --statistics
 
 apiVersion: tekton.dev/v1beta1
 kind: Task
