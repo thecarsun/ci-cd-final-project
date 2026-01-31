@@ -10,7 +10,7 @@ The GitHub respository is cloned from the [IBM repository template](https://gith
 
 Lab environment used for all the exercises and tasks: **euphemeral**
 
-### **Exercise 0 - Push CI code to GitHub**
+### Exercise 0 - Push CI code to GitHub
 
 **Task** 
 - test workflow and CI pipeline
@@ -28,7 +28,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 ![Git Push Action confirmation screeshot](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise0%20-%20gitpush.jpg)
 
 ---
-### **Exercise 1 - Create basic workflow**
+### Exercise 1 - Create basic workflow
 
  **Task**
  create Cl Workflow.yml
@@ -40,7 +40,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - push to GitHub
 
 ---
-### **Exercise 2 - Add the linting step to Cl workflow**
+### Exercise 2 - Add the linting step to Cl workflow
 
 **Task**
 - add the Lint step to the GitHub workflow
@@ -52,7 +52,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - push to Github
 
 ---
-### **Exercise 3 - Add the test step to Cl workflow
+### Exercise 3 - Add the test step to Cl workflow
 
 **Task**
 - add Test step to the Github workflow
@@ -64,7 +64,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - push to Github
 
 --- 
-### **Exercise 4 - Validate GitHub Actions Workflow
+### Exercise 4 - Validate GitHub Actions Workflow
 
 **Task**
 - validate the workflow through GitHub web -> action 
@@ -80,13 +80,14 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 ![Finally working](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise4%20-validateghactionworkflow.png)
 
----
+**Option 1 - AI Graded Sumbmission and Evaluation:**
+ - terminal output of `action workflow` 
 
- 
+ ![cicd-github-validate](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/cicd-github-validate.png)
 
+ ---
+### Exercise 5: Create cleanup Tekton task
 
-
-#GitHub URL:tasks.yaml
 
 #Task 6 - screenshots
 
