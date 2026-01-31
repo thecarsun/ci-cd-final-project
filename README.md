@@ -22,7 +22,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - Note: GitHub -> Developer Setting -> Personal Access tokens -> Token (Classic)
 - clone and create my own Github repository 
 - initialize **Development Environment**
-- edit *README.md* in the **euphemeral** terminal, add screenshot
+- edit *README.md* in the **euphemeral** terminal, add screenshot of Git Push action
 - format: **markdown**
 
 ![Git Push Action confirmation screeshot](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise0%20-%20gitpush.jpg)
