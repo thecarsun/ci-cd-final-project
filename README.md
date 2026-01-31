@@ -2,13 +2,13 @@
 ## project name: ci-cd-final project
 
 ## Table of Contents
-- [Intro/Background] (#Intro/Background)
-- [Exercise 0: Push Cl code to Github](#Exercise 0: Push CI code to GitHub)
-- [Exercise 1: Create basic workflow](#Exercise 1: Create basic workflow)
-- [Exercise 2: Add the linting step to Cl workflow](Exercise 2: Add the linting step to Cl workflow)
-- [Exercise 3: Add the test step to Cl workflow](#Exercise 3: Add the test step to Cl workflow)
-- [Exercise 4: Validate GitHub Actions Workflow](#Exercise 4: Validate GitHub Actions Workflow)
-- [Exercise 5: Create cleanup Tekton task](#Exercise 5: Create cleanup Tekton task)
+- [Intro/Background](#Intro/Background)
+- [Exercise-0](#Exercise-0)
+- [Exercise-1](#Exercise-1)
+- [Exercise-2](Exercise-2)
+- [Exercise-3](#Exercise-3)
+- [Exercise-4](#Exercise-4)
+- [Exercise-5](#Exercise-5)
 
 
 ### Intro/Background
@@ -20,7 +20,8 @@ The GitHub respository is cloned from the [IBM repository template](https://gith
 
 Lab environment used for all the exercises and tasks: **euphemeral**
 
-### Exercise 0: Push Cl code to GitHub
+### Exercise 0
+#### Push Cl code to GitHub
 
 **Task** 
 - test workflow and CI pipeline
@@ -39,7 +40,8 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 ---
 
-### Exercise 1: Create basic workflow
+### Exercise 1
+#### Create basic workflow
 
  **Task**
  create Cl Workflow.yml
@@ -52,7 +54,8 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 ---
 
-### Exercise 2: Add the linting step to Cl workflow
+### Exercise 2
+#### Add the linting step to Cl workflow
 
 **Task**
 - add the Lint step to the GitHub workflow
@@ -65,7 +68,8 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 ---
 
-### Exercise 3: Add the test step to Cl workflow
+### Exercise 3
+#### Add the test step to Cl workflow
 
 **Task**
 - add Test step to the Github workflow
@@ -78,7 +82,8 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 --- 
 
-### Exercise 4: Validate GitHub Actions Workflow
+### Exercise 4
+#### Validate GitHub Actions Workflow
 
 **Task**
 - validate the workflow through GitHub web -> action 
@@ -101,7 +106,8 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
  ---
 
-### Exercise 5: Create cleanup Tekton task
+### Exercise 5
+#### Create cleanup Tekton task
 
 --- 
 
