@@ -12,6 +12,7 @@
 - [Exercise-4](#Exercise-4)
 - [Exercise-5](#Exercise-5)
 - [Exercise-6](#Exercise-6)
+- [Exercise-7](#Exercise-7)
 
 
 ### Intro/Background
@@ -170,7 +171,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 ---
 
-## Exercise 6
+## Exercise 7
 ### Create OpemShift pipeline
 
 **Task**
@@ -186,6 +187,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 
 
+[⬆ Back to top](#top)
 
 
 
