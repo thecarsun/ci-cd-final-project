@@ -51,7 +51,20 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - [workflow.yml](https://github.com/thecarsun/ci-cd-final-project/blob/main/.github/workflows/workflow.yml)
 - push to Github
 
+---
+### **Exercise 3 - Add the test step to Cl workflow
 
+**Task**
+- add Test step to the Github workflow
+- use Nose module for running tests
+
+**What I've done:**
+- add name/run section to the existing Cl workflow 
+- [workflow.yml](https://github.com/thecarsun/ci-cd-final-project/blob/main/.github/workflows/workflow.yml)
+- push to Github
+
+--- 
+### **Exercise 4 - Validate GitHub Actions Workflow
 
  
 
