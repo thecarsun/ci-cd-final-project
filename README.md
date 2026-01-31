@@ -66,6 +66,16 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 --- 
 ### **Exercise 4 - Validate GitHub Actions Workflow
 
+**Task**
+- validate the workflow through GitHub web -> action 
+
+**What I've done:"**
+- first try; failed 
+
+![validation fail](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise4%20-validateghactionworkflow-fail.png)
+
+- troubleshoot; issue with indentation error 
+
  
 
 
