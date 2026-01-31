@@ -159,6 +159,8 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - add `nose` under the `cleanup` task in tasks.yml 
 - run `kubectl apply -f .tekton/tasks.yml`
 - run `tkn task ls`
+![validate](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/ecercise6.png)
+
 
 **Option 1 - AI Graded Submission and Evaluation**
 - [.tekton/tasks.yml](https://github.com/thecarsun/ci-cd-final-project/blob/main/.tekton/tasks.yml)
