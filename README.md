@@ -39,7 +39,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - clone and create my own Github repository 
 - initialize **Development Environment**
 - edit *README.md* in the **euphemeral** terminal, add screenshot of Git Push action
-- format: `**markdown**`
+- format: `markdown`
 
 ![Git Push Action confirmation screeshot](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/exercise0%20-%20gitpush.jpg)
 
@@ -156,7 +156,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - add `nose` under the `cleanup` task
 
 **What I have done:**
-- add 
+- add `nose` under the `cleanup` task in tasks.yml 
 
 
 #Task 6 - screenshots
