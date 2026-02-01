@@ -148,7 +148,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 **For Option 1 - AI Graded Submission and Evaluation**
 **3. Provide the GitHub URL of `.tekton/tasks.yml` showing the code snippet for the cleanup task and the code snippet for the nose task or Jest-test**
-- [`tasks.yml`](https://github.com/thecarsun/ci-cd-final-project/blob/main/.tekton/tasks.yml)
+- [`tasks.yml` URL]https://github.com/thecarsun/ci-cd-final-project/blob/main/.tekton/tasks.yml
 
 
 [⬆ Back to top](#top)
@@ -165,6 +165,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 - add `nose` under the `cleanup` task in tasks.yml 
 - run `kubectl apply -f .tekton/tasks.yml`
 - run `tkn task ls`
+
 ![validate](https://github.com/thecarsun/ci-cd-final-project/blob/main/image-cicd/ecercise6.png)
 
 
@@ -173,7 +174,7 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 ---
 
 ## Exercise 7
-### Create OpemShift pipeline
+### Create OpenShift pipeline
 
 **Task**
 - create CD pipeline
@@ -206,5 +207,3 @@ Lab environment used for all the exercises and tasks: **euphemeral**
 
 
 [⬆ Back to top](#top)
-
-git 
