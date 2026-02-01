@@ -7,6 +7,7 @@
       description: This task will have a single step called remove as follows
       workspaces:
         - name: source     
+      
       steps:
         - name: remove
           image: alpine:3
@@ -33,6 +34,7 @@
                 # Delete files and directories starting with .. plus any other character
                 rm -rf "${WORKSPACE_SOURCE_PATH}"/..?*
               fi
+--- 
 
 apiVersion: tekton.dev/v1beta1
 kind: Task
@@ -47,37 +49,14 @@ spec:
       description: Arguments to pass to nose
       type: string
       default: "-v"
+  
   steps:
     - name: nosetests
       image: python:3.9-slim
       workingDir: $(workspaces.source.path)
       script: |
-        #!/usr/bin/env sh
-        set -eu
-        python -m pip install --upgrade pip
-        pip install --upgrade wheel setuptools
+        #!/bin/bash
+        set -e
+        python -m pip install --upgrade pip wheel
         pip install -r requirements.txt
-        flake8 service --count --max-complexity=10 --max-line-length=127 --statistics
-
-apiVersion: tekton.dev/v1beta1
-kind: Task
-metadata:
-  name: buildah
-spec:
-  spec:
-  workspaces:
-    - name: source
-  params:
-    - name: build-image
-      type: string
-      description: Image name to build
-      default: my-app:latest
-  steps:
-    - name: build
-      image: quay.io/buildah/stable:v1.30.0
-      workingDir: $(workspaces.source.path)
-      script: |
-        #!/usr/bin/env sh
-        set -eu
-        echo "Building image $(params.build-image)"
-        buildah bud -t $(params.build-image) 
+        nosetests $(params.args)
